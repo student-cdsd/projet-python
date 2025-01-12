@@ -1,0 +1,17 @@
+def menu_client():
+    print("########## Bienvenue dans le menu client ##########\n")
+    print("1.  Consulter mon crédit")
+    print("2.  Effectuer un appel")
+    print("3.  Voir l'historique des appels")
+    print("4.  Ecouter un vocal")
+    print("5.  Supprimer un vocal")
+    print("6.  Ajouter un contact")
+    print("7.  Supprimer un contact")
+    print("8.  Renommer un contact")
+    print("9.  Ajouter un autre numéro au contact existant")
+    print("10. Afficher le répertoire")
+    print("11. Rechercher un contact")
+    print("12. Bloquer un contact")
+    print("13. Débloquer un contact")
+    print("14. Tranfert de crédit")
+    
